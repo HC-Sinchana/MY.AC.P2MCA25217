@@ -1,0 +1,14 @@
+{
+  "name": "notification-app",
+  "version": "1.0.0",
+  "description": "Priority Inbox solution for campus notifications.",
+  "main": "notification_app_be/priorityInbox.js",
+  "scripts": {
+    "start": "node notification_app_be/priorityInbox.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {}
+}
